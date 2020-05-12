@@ -10,5 +10,5 @@ In this part, the projects mainly focus on Data Science and Machine Learning.
 
 NLP：
 1. [Sentiment Polarity and Prediction - Yelp's Review](https://github.com/xl215/Data-Science/blob/master/NLP%20%20-%20Sentiment%20Analysis%20for%20Yelp%20Review%20and%20Star%20Prediction.ipynb)
-2. [Neural Network - Yelp's Review]
+2. [Neural Network - Yelp's Review RNN & LSTM]
 3. [Sentiment - Amazon Food Review](https://github.com/xl215/Data-Science/blob/master/Sentiment%20Analysis%20-%20Amazon%20Fine%20Food%20Review.ipynb)
